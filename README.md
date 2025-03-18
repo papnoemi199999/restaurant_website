@@ -11,7 +11,7 @@ Open the home.html file (or any other HTML file) in a web browser to view the we
 ## Usage
 * Home Page (home.html): Displays general information about Noemi's Restaurant, opening hours.
 * Food Menu (foodMenu.html): Presents a detailed list of food items offered by the restaurant along with their prices.
-*Drink Menu (drinkMenu.html): Presents a detailed list of food items offered by the restaurant along with their prices.
+* Drink Menu (drinkMenu.html): Presents a detailed list of food items offered by the restaurant along with their prices.
 
 ## Features
 * Navigation Bar: Easily accessible links to Home, Food Menu, and Drink Menu pages.
